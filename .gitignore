@@ -427,3 +427,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/.github/copilot-instructions.md
+/PalindromeChecker/.github/copilot-instructions.md
