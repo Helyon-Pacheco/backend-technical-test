@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37301.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OficinaMecanica.API", "src\OficinaMecanica.API\OficinaMecanica.API.csproj", "{83711C93-DADE-4CB3-A7F9-3444F13F809F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OficinaMecanica.Tests", "src\OficinaMecanica.Tests\OficinaMecanica.Tests.csproj", "{A6A03594-809E-4A62-8A91-10A47B0597A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83711C93-DADE-4CB3-A7F9-3444F13F809F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83711C93-DADE-4CB3-A7F9-3444F13F809F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83711C93-DADE-4CB3-A7F9-3444F13F809F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83711C93-DADE-4CB3-A7F9-3444F13F809F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A03594-809E-4A62-8A91-10A47B0597A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A03594-809E-4A62-8A91-10A47B0597A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A03594-809E-4A62-8A91-10A47B0597A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A03594-809E-4A62-8A91-10A47B0597A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86A8A87A-ABB5-414F-BEB0-C8F17D4295E4}
+	EndGlobalSection
+EndGlobal
